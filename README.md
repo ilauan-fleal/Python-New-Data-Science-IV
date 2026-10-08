@@ -1,0 +1,1 @@
+A utilização de bibliotecas, como Numpy, Pandas e Matplotlib permite a construção de DataFrames dinâmicos, e são excelentes para esse tipo  de  aplicação, diretamente  relacionada com extração e análise de dados.
